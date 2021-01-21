@@ -1,5 +1,5 @@
 {
-  "name": "yasgui",
+  "name": "@gatperdut/yasgui",
   "private": true,
   "workspaces": [
     "packages/*"
@@ -132,5 +132,21 @@
       "path": "build/yasqe.min.js",
       "maxSize": "495 kB"
     }
-  ]
+  ],
+  "description": "Useful links:",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatperdut/Yasgui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatperdut/Yasgui/issues"
+  },
+  "homepage": "https://github.com/gatperdut/Yasgui#readme"
 }
