@@ -1,6 +1,6 @@
 {
   "name": "@gatperdut/yasgui",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
